@@ -8,4 +8,4 @@ this is my new website there are many links but this is the main one
 + save, stage, and commit changes
 + enable github pages for my repository
 
-![Caption](https://image.shutterstock.com/image-photo/mountain-lake-perfect-reflection-sunrise-260nw-1478029037.jpg)
+![Caption](https://upload.wikimedia.org/wikipedia/commons/c/c2/GitHub_Invertocat_Logo.svg)
